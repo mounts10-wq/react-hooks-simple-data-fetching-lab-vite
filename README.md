@@ -1,3 +1,12 @@
+## Features
+
+- Fetches and displays a random dog image on initial page load.
+- Shows a **Loading...** message while waiting for the API response.
+- Includes a button that fetches and displays a new random dog image on demand.
+
+Data is fetched from the Dog CEO API:
+https://dog.ceo/api/breeds/image/random
+
 # React Simple Data Fetching Lab
 
 ## Learning Goals
